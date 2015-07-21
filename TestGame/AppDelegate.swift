@@ -18,6 +18,8 @@
 
 //FUCK
 
+// wow o
+
 import UIKit
 
 @UIApplicationMain
